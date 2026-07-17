@@ -45,14 +45,14 @@ Building AI-powered applications with Python, FastAPI, React and Machine Learnin
 | 📱 QR Attendance System | Flask + QR Code attendance |
 | 🍔 Smart Canteen | Online food ordering platform |
 
----
+
 ---
 ## 🐍 Eating My Contributions
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/adityasolanki192004-dot/adityasolanki192004-dot/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 </p> 
----
+
 <h1 align="center">🌐 <b>Connect With Me</b></h1>
 
 <p align="center">
