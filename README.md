@@ -1,10 +1,72 @@
-<!-- =============================================================== -->
-<!--                    PREMIUM ANIMATED HEADER                      -->
-<!-- =============================================================== -->
+<!-- ================================================= -->
+<!--             PREMIUM ANIMATED HEADER               -->
+<!-- ================================================= -->
 
 <div align="center">
 
-<img src="./banner.png" width="100%" alt="Aditya Solanki Banner"/>
+<img width="100%" src="./banner.png"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=42&duration=2200&pause=700&color=00F7FF&center=true&vCenter=true&width=1200&height=80&lines=👋+Hello,+I'm+Aditya+Solanki;Artificial+Intelligence+Engineer;Machine+Learning+Developer;FastAPI+Developer;Python+Developer;Building+Future+With+AI"/>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:6A5ACD,100:FF00FF&height=140&section=header"/>
+
+</div>
+<table>
+
+<tr>
+
+<td width="60%">
+
+# 💫 About Me
+
+```yaml
+Name      : Aditya Solanki
+
+Role      : Artificial Intelligence Engineer
+
+Education : B.Tech Computer Science
+
+Focus      :
+   • Artificial Intelligence
+   • Machine Learning
+   • Deep Learning
+   • FastAPI
+   • Full Stack Development
+   • Cloud Computing
+
+Currently Learning :
+
+   ✓ Generative AI
+
+   ✓ LangChain
+
+   ✓ RAG
+
+   ✓ AI Agents
+
+   ✓ MCP
+
+   ✓ Docker
+
+   ✓ Kubernetes
+
+Dream :
+
+Build AI Products used by Millions 🚀
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,nodejs,fastapi,flask,tensorflow,pytorch,mongodb,mysql,postgres,docker,kubernetes,aws,git,github,vscode,linux&perline=10"/>
+
+</div>
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=adityasolanki192004-dot&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=adityasolanki192004-dot&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -12,139 +74,27 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=38&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=1100&height=120&lines=👋+Hello,+I'm+Aditya+Solanki;Artificial+Intelligence+Engineer;Machine+Learning+Developer;Python+%7C+FastAPI+Developer;Full+Stack+Developer;Open+Source+Contributor;Building+Future+with+Artificial+Intelligence"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=adityasolanki192004-dot&theme=tokyo-night&hide_border=true"/>
 
 </div>
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A5ACD&height=90&section=header"/>
+<img src="https://raw.githubusercontent.com/adityasolanki192004-dot/adityasolanki192004-dot/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=adityasolanki192004-dot&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/adityasolanki192004-dot?style=for-the-badge&logo=github&color=181717"/>
-
-<img src="https://img.shields.io/github/stars/adityasolanki192004-dot?style=for-the-badge&logo=github&color=FFD700"/>
-
-<img src="https://img.shields.io/github/last-commit/adityasolanki192004-dot/adityasolanki192004-dot?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Open%20Source-Love-red?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/AI-Powered-blueviolet?style=for-the-badge"/>
-
-</div>
-
----
-
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hello Developers
-
-<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
-
-## 🚀 About Me
-
-```yaml
-Name        : Aditya Solanki
-Role        : Artificial Intelligence Engineer
-Education   : B.Tech Computer Science Engineering
-Location    : India
-Interests   : AI • ML • Generative AI • LLMs • Backend Development
-Languages   : Python • Java • SQL • JavaScript
-Frameworks  : FastAPI • Flask • React
-Database    : MySQL • PostgreSQL • MongoDB
-```
-
----
-
-## 💡 Who Am I?
-
-🎓 Final Year Computer Science Engineering Student
-
-🤖 Passionate Artificial Intelligence Engineer
-
-💻 Full Stack Developer
-
-⚡ FastAPI & Flask Backend Developer
-
-🧠 Machine Learning Enthusiast
-
-📊 Data Science Practitioner
-
-🚀 Open Source Contributor
-
-📚 Constant Learner
-
-🌍 Building AI solutions that solve real-world problems.
-
----
-
-## 🌱 Currently Exploring
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,docker,kubernetes,aws,react"/>
-
-✔ Generative AI
-
-✔ Large Language Models (LLMs)
-
-✔ LangChain
-
-✔ Retrieval Augmented Generation (RAG)
-
-✔ AI Agents
-
-✔ Multi-Agent Systems
-
-✔ Prompt Engineering
-
-✔ MCP
-
-✔ System Design
-
-✔ Cloud Deployment
-
----
-
-## 🚀 Current Projects
-
-| 🚀 Project | Description |
-|------------|-------------|
-| 🤖 AI Code Review Assistant | AI-powered security & code review platform |
-| 🛡 SafeRouteAI | Intelligent route safety prediction system |
-| 📄 Smart Resume Analyzer | ATS Resume Analyzer using AI |
-| 🎓 Student Success Analyzer | ML model for predicting student performance |
-| 📱 QR Attendance System | Flask based QR Attendance Management |
-| 🍔 Smart Canteen | Food Ordering Management System |
-
----
-
-## 🌐 Connect With Me
-
 <div align="center">
 
 <a href="https://www.linkedin.com/in/aditya-solanki-565081207">
-<img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:adityasolanki192004@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 <a href="https://github.com/adityasolanki192004-dot">
-<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A5ACD&height=90&section=footer"/>
 
 </div>
 
