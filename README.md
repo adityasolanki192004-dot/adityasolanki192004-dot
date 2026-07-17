@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=42&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Aditya+Solanki;AI+Engineer;Machine+Learning+Developer;Full+Stack+Developer" />
+# 👋 Hi, I'm Aditya Solanki
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Machine+Learning+Developer;Full+Stack+Developer;FastAPI+%7C+Flask+%7C+React)](https://git.io/typing-svg)
+
+### 🚀 Building AI-powered applications with Python, FastAPI, React & Machine Learning
 
 </div>
 ---
