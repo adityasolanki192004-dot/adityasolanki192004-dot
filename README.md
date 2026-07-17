@@ -46,7 +46,15 @@ Building AI-powered applications with Python, FastAPI, React and Machine Learnin
 | 🍔 Smart Canteen | Online food ordering platform |
 
 ---
+---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/adityasolanki192004-dot/adityasolanki192004-dot/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
 ## 🌐 Connect With Me
 
 <p align="center">
