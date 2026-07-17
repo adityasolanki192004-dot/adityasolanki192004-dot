@@ -47,6 +47,14 @@ Building AI-powered applications with Python, FastAPI, React and Machine Learnin
 
 ---
 ---
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/adityasolanki192004-dot/adityasolanki192004-dot/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
 
 
 ---
