@@ -107,7 +107,7 @@ to impactful open-source projects while continuously learning new technologies.
 
 ---
 
-## 🚀 Currently Working On
+## 🚀 PROJECTS
 
 🤖 AI Code Review Assistant
 
