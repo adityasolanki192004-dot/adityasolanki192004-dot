@@ -1,18 +1,18 @@
-<!-- ========================================================= -->
-<!--                 PREMIUM GITHUB PROFILE                    -->
-<!-- ========================================================= -->
+<!-- ========================= -->
+<!--        HEADER             -->
+<!-- ========================= -->
 
 <div align="center">
 
-<img src="./banner.png" width="100%" alt="Aditya Solanki Banner"/>
+<img src="./banner.png" width="100%" alt="Banner"/>
 
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=38&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&repeat=true&width=1000&lines=👋+Hi,+I'm+Aditya+Solanki;Artificial+Intelligence+Engineer;Machine+Learning+Developer;Python+%7C+FastAPI+Developer;Building+Intelligent+Applications;Welcome+to+My+GitHub+Profile"/>
+</div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00F5FF,50:5E60CE,100:7400B8&section=header&reversal=false"/>
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=34&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&repeat=true&width=1000&lines=Hi+👋,+I'm+Aditya+Solanki;Artificial+Intelligence+Engineer;Machine+Learning+Developer;Python+Developer;FastAPI+Developer;Full+Stack+Developer;Open+Source+Enthusiast;Welcome+to+My+GitHub+Profile"/>
 
 </div>
 
@@ -20,129 +20,75 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=adityasolanki192004-dot&style=for-the-badge&color=blueviolet"/>
+<img src="https://komarev.com/ghpvc/?username=adityasolanki192004-dot&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/followers/adityasolanki192004-dot?style=for-the-badge&logo=github&color=181717"/>
+<img src="https://img.shields.io/github/followers/adityasolanki192004-dot?style=for-the-badge&logo=github"/>
 
-<img src="https://img.shields.io/github/stars/adityasolanki192004-dot?style=for-the-badge&logo=github&color=FFD700"/>
+<img src="https://img.shields.io/github/stars/adityasolanki192004-dot?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/AI-Engineer-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20Source-Love-red?style=for-the-badge"/>
 
 </div>
 
 ---
 
-<table>
-<tr>
+# 👋 Hello Developers!
 
-<td width="60%">
+<img align="right" width="340" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-# 👨‍💻 About Me
+### 👨‍💻 About Me
 
-```yaml
-Name      : Aditya Solanki
-Education : B.Tech Computer Science Engineering
-Role      : Artificial Intelligence Engineer
-Location  : India
+🎓 B.Tech Computer Science Engineering Student
 
-Languages :
-  - Python
-  - Java
-  - SQL
-  - JavaScript
+🤖 Artificial Intelligence Engineer
 
-Backend :
-  - FastAPI
-  - Flask
-  - REST APIs
+💻 Full Stack Developer
 
-Frontend :
-  - React
-  - HTML
-  - CSS
-  - Tailwind CSS
+🧠 Machine Learning Enthusiast
 
-Databases :
-  - MySQL
-  - PostgreSQL
-  - MongoDB
+🌱 Currently learning
 
-AI Stack :
-  - Machine Learning
-  - Deep Learning
-  - Generative AI
-  - LangChain
-  - RAG
-```
-
-### 🚀 Mission
-
-Building intelligent AI-powered applications that solve real-world problems using Machine Learning, FastAPI, LLMs and Cloud technologies.
-
-### 🌱 Currently Learning
-
-- Large Language Models
-- AI Agents
-- LangGraph
-- MCP
-- Docker
-- Kubernetes
-- AWS
+- Generative AI
+- Large Language Models (LLMs)
+- LangChain
+- Retrieval Augmented Generation (RAG)
 - System Design
 
-</td>
-
-<td width="40%">
-
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%">
-
-</td>
-
-</tr>
-</table>
+🚀 Passionate about building AI-powered applications.
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Current Focus
 
-| Project | Description |
-|---------|-------------|
-| 🤖 AI Code Review Assistant | AI-powered secure code review platform using FastAPI and LLMs |
-| 🛡 SafeRouteAI | Intelligent route safety prediction using Machine Learning |
-| 📄 Smart Resume Analyzer | ATS Resume Checker powered by AI |
-| 🎓 Student Success Analyzer | ML model for predicting academic performance |
-| 📱 QR Attendance System | Flask QR Code Attendance Management |
-| 🍔 Smart Canteen | Smart online food ordering system |
+- 🤖 AI Code Review Assistant
+- 🛡 SafeRouteAI
+- 📄 Smart Resume Analyzer
+- 🎓 Student Success Analyzer
+- 📱 QR Attendance System
+- 🍔 Smart Canteen
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
-<div align="center">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/aditya-solanki-565081207">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:adityasolanki192004@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/adityasolanki192004-dot">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
+</p>
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00F5FF,50:5E60CE,100:7400B8"/>
-
-</div>
 
 <!--
 **adityasolanki192004-dot/adityasolanki192004-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
