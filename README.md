@@ -1,5 +1,4 @@
 
-        <p align="center">
 <img src="./banner.png" width="100%">
 </p>
 <p align="center">
@@ -167,9 +166,6 @@ June 2026
 
 </p>
 
-## 💬 Quote
-
-> "The best way to predict the future is to invent it."
 
 <!--
 **adityasolanki192004-dot/adityasolanki192004-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
