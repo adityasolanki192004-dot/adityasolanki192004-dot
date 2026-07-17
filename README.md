@@ -1,75 +1,64 @@
-# 🚀 Aditya Solanki
+<!-- ========================= -->
+<!--        HEADER             -->
+<!-- ========================= -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Aditya+Solanki;AI+Engineer;Machine+Learning+Developer;Full+Stack+Developer;Building+AI+Powered+Applications"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:6C63FF,100:FF00FF&height=240&section=header&text=ADITYA%20SOLANKI&fontSize=50&fontColor=ffffff"/>
+<img src="./banner.png" width="100%" alt="Banner"/>
 
 </div>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=adityasolanki192004-dot&style=for-the-badge&color=blueviolet"/>
-<img src="https://img.shields.io/github/followers/adityasolanki192004-dot?style=for-the-badge"/>
+<br>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=34&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&repeat=true&width=1000&lines=Hi+👋,+I'm+Aditya+Solanki;Artificial+Intelligence+Engineer;Machine+Learning+Developer;Python+Developer;FastAPI+Developer;Full+Stack+Developer;Open+Source+Enthusiast;Welcome+to+My+GitHub+Profile"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=adityasolanki192004-dot&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/adityasolanki192004-dot?style=for-the-badge&logo=github"/>
+
 <img src="https://img.shields.io/github/stars/adityasolanki192004-dot?style=for-the-badge"/>
-</p>
+
+<img src="https://img.shields.io/badge/Open%20Source-Love-red?style=for-the-badge"/>
+
+</div>
 
 ---
 
-# 👨‍💻 About Me
+# 👋 Hello Developers!
 
-- 🤖 AI Engineer & Machine Learning Developer
-- 💻 Full Stack Developer
-- 🎓 B.Tech Computer Science Engineering
-- 🌱 Currently learning Generative AI, RAG, AI Agents, Docker, Kubernetes & MLOps
-- 🚀 Passionate about solving real-world problems with AI.
+<img align="right" width="340" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
----
+### 👨‍💻 About Me
 
-# 🛠 Tech Stack
+🎓 B.Tech Computer Science Engineering Student
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,nodejs,fastapi,flask,mysql,postgres,mongodb,docker,kubernetes,git,github,vscode,linux,tensorflow,pytorch&perline=7"/>
-</p>
+🤖 Artificial Intelligence Engineer
 
----
+💻 Full Stack Developer
 
-# 📈 GitHub Stats
+🧠 Machine Learning Enthusiast
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=adityasolanki192004-dot&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=adityasolanki192004-dot&theme=tokyonight&hide_border=true"/>
-</p>
+🌱 Currently learning
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasolanki192004-dot&layout=compact&theme=tokyonight"/>
-</p>
+- Generative AI
+- Large Language Models (LLMs)
+- LangChain
+- Retrieval Augmented Generation (RAG)
+- System Design
+
+🚀 Passionate about building AI-powered applications.
 
 ---
 
-# 📊 Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityasolanki192004-dot&theme=tokyo-night"/>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=adityasolanki192004-dot&theme=algolia&no-frame=true&column=7"/>
-</p>
-
----
-
-# 🐍 Snake Contribution Animation
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
-# 🚀 Featured Projects
+## 🚀 Current Focus
 
 - 🤖 AI Code Review Assistant
 - 🛡 SafeRouteAI
@@ -80,25 +69,25 @@
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/aditya-solanki-565081207"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
-<a href="mailto:adityasolanki192004@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/adityasolanki192004-dot"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/></a>
+
+<a href="https://www.linkedin.com/in/aditya-solanki-565081207">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:adityasolanki192004@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/adityasolanki192004-dot">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
 ---
-
-# 💬 Dev Quote
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6C63FF&height=120&section=footer"/>
 
 </p>
 
