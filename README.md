@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=40&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=👋+Hi,+I'm+Aditya+Solanki;🤖+AI+Engineer;💻+Machine+Learning+Developer;🚀+Full+Stack+Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=42&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Aditya+Solanki;AI+Engineer;Machine+Learning+Developer;Full+Stack+Developer" />
 
 </div>
 
