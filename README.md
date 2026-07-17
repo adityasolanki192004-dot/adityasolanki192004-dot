@@ -2,9 +2,13 @@
 
 # 👋 Hi, I'm Aditya Solanki
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Machine+Learning+Developer;Full+Stack+Developer;FastAPI+%7C+Flask+%7C+React)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&repeat=true&width=1000&lines=AI+Engineer;Machine+Learning+Developer;Full+Stack+Developer;Python+Developer;FastAPI+%7C+Flask+%7C+React;Building+AI-Powered+Applications)](https://git.io/typing-svg)
 
-### 🚀 Building AI-powered applications with Python, FastAPI, React & Machine Learning
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=adityasolanki192004-dot&style=for-the-badge&color=blue"/>
+<img src="https://img.shields.io/github/followers/adityasolanki192004-dot?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/adityasolanki192004-dot?style=for-the-badge"/>
+</p>
 
 </div>
 
