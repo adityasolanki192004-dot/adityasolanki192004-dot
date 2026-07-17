@@ -52,8 +52,7 @@ Building AI-powered applications with Python, FastAPI, React and Machine Learnin
 <p align="center">
   <img src="https://raw.githubusercontent.com/adityasolanki192004-dot/adityasolanki192004-dot/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 </p>
----
----
+
 
 <h1 align="center">🌐 <b>Connect With Me</b></h1>
 
@@ -77,8 +76,7 @@ Building AI-powered applications with Python, FastAPI, React and Machine Learnin
   <a href="https://github.com/adityasolanki192004-dot"><b>GitHub</b></a>
 </p>
 
----
----
+
 
 <!--
 **adityasolanki192004-dot/adityasolanki192004-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
