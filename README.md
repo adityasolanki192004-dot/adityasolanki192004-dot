@@ -1,12 +1,12 @@
 <div align="center">
 
-# 👋 Hi, I'm Aditya Solanki
+# 👋 Hi, I'm
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=36&pause=1200&color=00D9FF&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+Profile!;AI+%7C+Machine+Learning+%7C+Full+Stack;FastAPI+%7C+Flask+%7C+React+Developer;Python+Developer;Open+Source+Contributor;Let's+Build+Something+Amazing!🚀" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=48&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&repeat=true&width=700&lines=Aditya+Solanki)](https://git.io/typing-svg)
+
+### AI Engineer • Machine Learning • Full Stack Developer
 
 </div>
-
----
 
 ## 🚀 About Me
 
