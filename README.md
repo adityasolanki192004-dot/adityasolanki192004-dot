@@ -1,4 +1,3 @@
-# 🚀 Aditya Solanki
 
 <div align="center">
 
