@@ -1,12 +1,31 @@
 <div align="center">
 
-# 👋 Hi, I'm
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=42&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&lines=👋+Hello,+I'm+Aditya+Solanki;🚀+AI+Engineer;🤖+Machine+Learning+Developer;💻+Full+Stack+Developer;⚡+Python+%7C+FastAPI+%7C+React;🔥+Building+AI-Powered+Applications" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=48&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&repeat=true&width=700&lines=Aditya+Solanki)](https://git.io/typing-svg)
+<br><br>
 
-### AI Engineer • Machine Learning • Full Stack Developer
+<img src="https://img.shields.io/badge/AI%20Engineer-00F7FF?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Full%20Stack-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20Source-orange?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=adityasolanki192004-dot&style=for-the-badge&color=blue"/>
+
+<img src="https://img.shields.io/github/followers/adityasolanki192004-dot?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/github/stars/adityasolanki192004-dot?style=for-the-badge&logo=github"/>
 
 </div>
+
+---
+
+<h2 align="center">🚀 Building AI-powered applications with Python, FastAPI, React & Machine Learning</h2>
+
+<p align="center">
+Passionate about Artificial Intelligence, Machine Learning, Generative AI and Full Stack Development.
+</p>
 
 ## 🚀 About Me
 
