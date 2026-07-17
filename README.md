@@ -1,16 +1,4 @@
- adityasolanki192004-dot
-│
-├── README.md
-├── banner.png
-├── assets
-│   ├── coding.gif
-│   ├── ai.gif
-│   ├── matrix.gif
-│   └── earth.gif
-│
-└── .github
-    └── workflows
-        └── snake.yml
+
         <p align="center">
 <img src="./banner.png" width="100%">
 </p>
