@@ -1,94 +1,118 @@
-# 🤖 Aditya AI.OS
+# 🚀 Aditya Solanki | Premium GitHub Profile
 
-> Premium AI-themed GitHub Profile
+> **NOTE:** This is a premium starter README generated for your profile.
+> It is designed to be expanded further with project cards, GitHub Actions,
+> snake animation, and WakaTime if you enable those services.
 
-## Welcome
+<div align="center">
 
-```text
-BOOTING AI.OS...
-██████████████████████████████ 100%
+<img src="./banner.png" width="100%" alt="Aditya Solanki Banner"/>
 
-USER      : Aditya Solanki
-ROLE      : AI Engineer
-STATUS    : ONLINE
-```
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&repeat=true&width=1000&height=70&lines=Hi+👋+I'm+Aditya+Solanki;Artificial+Intelligence+Engineer;Machine+Learning+Developer;Python+Developer;FastAPI+Developer;React+Developer;Full+Stack+Developer;Open+Source+Enthusiast;Building+AI+Solutions"/>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2500&pause=1000&color=00F7FF&center=true&width=900&lines=AI+Engineer;Machine+Learning+Developer;FastAPI+%7C+Python+%7C+React;Always+Learning+New+Things"/>
-</p>
+</div>
 
 ---
 
-# 🚀 About Me
+## 👨‍💻 About Me
 
-- 🤖 AI Engineer
-- 🧠 Machine Learning Enthusiast
+- 🎓 B.Tech CSE Student
+- 🤖 AI & Machine Learning Enthusiast
 - 💻 Full Stack Developer
-- ⚡ FastAPI • Flask • React
-- 🌱 Learning GenAI, RAG, AI Agents, Docker & Kubernetes
+- ⚡ Python • FastAPI • Flask • React
+- 📊 Data Science
+- 🌍 Open Source Contributor
 
 ---
 
-# 🛠 Tech Stack
+## 🚀 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,react,nextjs,nodejs,express,fastapi,flask,mongodb,mysql,postgres,docker,kubernetes,git,github,linux,aws,tensorflow,pytorch,vscode&perline=8"/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,react,html,css,js,fastapi,flask,nodejs,git,github,mysql,postgres,docker,vscode&perline=8"/>
 </p>
 
 ---
 
-# 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=adityasolanki192004-dot&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adityasolanki192004-dot&theme=tokyonight"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=adityasolanki192004-dot&show_icons=true&theme=tokyonight"/>
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=adityasolanki192004-dot&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasolanki192004-dot&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-# 📈 Activity
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityasolanki192004-dot&theme=tokyo-night"/>
+</p>
 
 ---
 
-# 🏆 Trophies
+## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=adityasolanki192004-dot&theme=algolia&no-frame=true&column=4"/>
-
----
-
-# 🐍 Snake
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=adityasolanki192004-dot&theme=algolia&no-frame=true&margin-w=8"/>
+</p>
 
 ---
 
-# 💼 Featured Projects
+## 🚀 Featured Projects
 
 - 🤖 AI Code Review Assistant
 - 🛡 SafeRouteAI
 - 📄 Smart Resume Analyzer
 - 🎓 Student Success Analyzer
+- 📱 QR Attendance System
 - 🍔 Smart Canteen
-- 📱 QR Attendance
 
 ---
 
-# 🌐 Connect
+## 🌱 Currently Learning
 
-- GitHub: https://github.com/adityasolanki192004-dot
-- LinkedIn: https://linkedin.com/in/aditya-solanki-565081207
-- Email: adityasolanki192004@gmail.com
+- Generative AI
+- LLMs
+- LangChain
+- RAG
+- AI Agents
+- Docker
+- Kubernetes
+- MLOps
 
 ---
 
-⭐ Thanks for visiting my profile!
+## 🌐 Connect
 
+<p align="center">
+<a href="https://github.com/adityasolanki192004-dot"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://www.linkedin.com/in/aditya-solanki-565081207"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
+<a href="mailto:adityasolanki192004@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/></a>
+</p>
+
+---
+
+## 🐍 Snake Animation
+
+Enable with GitHub Actions and use:
+
+```text
+https://raw.githubusercontent.com/adityasolanki192004-dot/adityasolanki192004-dot/output/github-contribution-grid-snake.svg
+```
+
+---
+
+## 👀 Visitor Counter
+
+```md
+<img src="https://komarev.com/ghpvc/?username=adityasolanki192004-dot&style=for-the-badge"/>
+```
+
+---
+
+<div align="center">
+
+### 💡 "Building Intelligent Systems Today for a Better Tomorrow."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer"/>
+
+</div>
 
 
 </p>
