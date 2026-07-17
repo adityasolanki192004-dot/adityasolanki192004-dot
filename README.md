@@ -7,7 +7,6 @@
 ### 🚀 Building AI-powered applications with Python, FastAPI, React & Machine Learning
 
 </div>
----
 
 ## 🚀 About Me
 
