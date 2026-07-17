@@ -157,8 +157,7 @@ to impactful open-source projects while continuously learning new technologies.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer"/>
 
-</di 
-Make it complete change with above animated
+
 
 </div>
 
