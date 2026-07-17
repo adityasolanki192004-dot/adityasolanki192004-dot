@@ -1,18 +1,22 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=42&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Aditya+Solanki;AI+Engineer;Machine+Learning+Developer;Full+Stack+Developer" />
+# 👋 Hi, I'm Aditya Solanki
 
-</div>
-
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Machine+Learning+Developer;Full+Stack+Developer;Python+Developer;FastAPI+%7C+Flask+%7C+React;Building+AI-Powered+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
 
 <h3 align="center">
-AI Engineer • Machine Learning • Full Stack Developer
+🚀 Building AI-powered applications with Python, FastAPI, React & Machine Learning
 </h3>
 
 <p align="center">
-Building AI-powered applications with Python, FastAPI, React and Machine Learning.
+<img src="https://komarev.com/ghpvc/?username=adityasolanki192004-dot&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/adityasolanki192004-dot?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/stars/adityasolanki192004-dot?style=for-the-badge&logo=github"/>
 </p>
 
+</div>
+
+---
 ---
 
 ## 🚀 About Me
