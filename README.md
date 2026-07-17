@@ -53,32 +53,31 @@ Building AI-powered applications with Python, FastAPI, React and Machine Learnin
   <img src="https://raw.githubusercontent.com/adityasolanki192004-dot/adityasolanki192004-dot/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 </p>
 ---
-## 🌐 Connect With Me
+---
+
+<h1 align="center">🌐 <b>Connect With Me</b></h1>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/aditya-solanki-565081207" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+  </a>
 
-<a href="https://www.linkedin.com/in/aditya-solanki-565081207" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
-</a>
+  <a href="mailto:adityasolanki192004@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
+  </a>
 
-<a href="mailto:adityasolanki192004@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
-</a>
-
-<a href="https://github.com/adityasolanki192004-dot" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
-</a>
-
+  <a href="https://github.com/adityasolanki192004-dot" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
+  </a>
 </p>
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/aditya-solanki-565081207">LinkedIn</a> •
-<a href="mailto:adityasolanki192004@gmail.com">Email</a> •
-<a href="https://github.com/adityasolanki192004-dot">GitHub</a>
-
+  <a href="https://www.linkedin.com/in/aditya-solanki-565081207"><b>LinkedIn</b></a> •
+  <a href="mailto:adityasolanki192004@gmail.com"><b>Email</b></a> •
+  <a href="https://github.com/adityasolanki192004-dot"><b>GitHub</b></a>
 </p>
 
+---
 ---
 
 <!--
