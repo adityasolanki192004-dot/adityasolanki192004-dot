@@ -47,16 +47,40 @@ Building AI-powered applications with Python, FastAPI, React and Machine Learnin
 
 ---
 ---
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/adityasolanki192004-dot/adityasolanki192004-dot/output/github-contribution-grid-snake.svg"/>
-
+  <img src="https://raw.githubusercontent.com/adityasolanki192004-dot/adityasolanki192004-dot/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
+.github/workflows/snake.yml
+name: Generate Snake Animation
 
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
+permissions:
+  contents: write
 
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: adityasolanki192004-dot
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ---
 ## 🌐 Connect With Me
 
