@@ -1,4 +1,12 @@
+<div align="center">
 
+# 👋 Hi, I'm Aditya Solanki
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=36&pause=1200&color=00D9FF&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+Profile!;AI+%7C+Machine+Learning+%7C+Full+Stack;FastAPI+%7C+Flask+%7C+React+Developer;Python+Developer;Open+Source+Contributor;Let's+Build+Something+Amazing!🚀" />
+
+</div>
+
+---
 <p align="center">
   <img src="./banner.png" alt="Banner"/>
 </p>
