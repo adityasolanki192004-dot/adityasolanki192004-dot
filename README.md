@@ -1,4 +1,3 @@
-# Hi 👋 I'm Aditya Solanki
 
 <p align="center">
   <img src="./banner.png" alt="Banner"/>
