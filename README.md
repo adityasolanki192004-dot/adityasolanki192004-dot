@@ -27,7 +27,7 @@
 - 🎓 B.Tech in Computer Science Engineering
 - 🤖 Building agentic AI systems — RAG pipelines, LLM orchestration, and intelligent agents
 - 💻 Full Stack Developer — comfortable across Python, JS/React, and backend APIs
-- 📊 Data Science & ML enthusiast
+- 📊 Data Science & AI enthusiast
 - 🌱 Always learning: currently deep in LangGraph, vector databases, and agentic workflows
 - 📍 India
 
