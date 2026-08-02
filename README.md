@@ -1,42 +1,35 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&repeat=true&width=600&lines=whoami+%3E+Aditya+Solanki;AI+Engineer+%7C+Full+Stack+Dev;Building+Agentic+RAG+Systems;LangGraph+%7C+FastAPI+%7C+Qdrant)](https://git.io/typing-svg)
+# 👋 Hi, I'm
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=48&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&repeat=true&width=700&lines=Aditya+Solanki;AI+Engineer;Full+Stack+Developer)](https://git.io/typing-svg)
+
+### 🤖 AI Engineer • 🧠 Machine Learning • 💻 Full Stack Developer
+
+<p>
+  <a href="https://www.linkedin.com/in/aditya-solanki-565081207">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:adityasolanki192004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/adityasolanki192004-dot">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
-<br/>
+---
 
-<table align="center">
-<tr>
-<td width="60%" valign="top">
+## 🚀 About Me
 
-```bash
-avi@github:~$ whoami
-
-NAME     Aditya Solanki
-ROLE     AI Engineer · Full Stack Developer
-EDU      B.Tech, Computer Science Engineering
-FOCUS    Agentic AI · RAG Pipelines · LLM Orchestration
-STACK    Python · FastAPI · LangGraph · React
-LOC      India
-STATUS   🌱 Learning vector DBs & multi-agent systems
-
-avi@github:~$ ./connect.sh
-  → linkedin.com/in/aditya-solanki-565081207
-  → adityasolanki192004@gmail.com
-```
-
-</td>
-<td width="40%" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=adityasolanki192004-dot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%"/>
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityasolanki192004-dot&theme=tokyonight&hide_border=true" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasolanki192004-dot&layout=compact&theme=tokyonight&hide_border=true" width="30%"/>
-</p>
+- 🎓 B.Tech in Computer Science Engineering
+- 🤖 Building agentic AI systems — RAG pipelines, LLM orchestration, and intelligent agents
+- 💻 Full Stack Developer — comfortable across Python, JS/React, and backend APIs
+- 📊 Data Science & ML enthusiast
+- 🌱 Always learning: currently deep in LangGraph, vector databases, and agentic workflows
+- 📍 India
 
 ---
 
@@ -106,15 +99,20 @@ avi@github:~$ ./connect.sh
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adityasolanki192004-dot&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=adityasolanki192004-dot&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasolanki192004-dot&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityasolanki192004-dot&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🐍 Contribution Graph
+## 🐍 My Contribution Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/adityasolanki192004-dot/adityasolanki192004-dot/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
@@ -122,24 +120,23 @@ avi@github:~$ ./connect.sh
 
 ---
 
-<div align="center">
+<h1 align="center">🌐 Connect With Me</h1>
 
-## 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/aditya-solanki-565081207" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:adityasolanki192004@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/adityasolanki192004-dot" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
+  </a>
+</p>
 
-<a href="https://www.linkedin.com/in/aditya-solanki-565081207" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:adityasolanki192004@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/adityasolanki192004-dot" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=adityasolanki192004-dot&label=Profile+Views&color=00F7FF&style=flat" />
-
-</div>
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/aditya-solanki-565081207"><b>LinkedIn</b></a> •
+  <a href="mailto:adityasolanki192004@gmail.com"><b>Email</b></a> •
+  <a href="https://github.com/adityasolanki192004-dot"><b>GitHub</b></a>
+</p>
 
